@@ -14,4 +14,4 @@ git clone https://github.com/Black-Cobra404/MARSHAL-ENCRYPT
 
 cd MARSHAL-ENCRYPT
 
-python encrypt.py
+python enc.py
