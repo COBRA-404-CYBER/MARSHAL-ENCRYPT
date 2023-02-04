@@ -10,7 +10,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/Black-Cobra404/MARSHAL-ENCRYPT
+git clone https://github.com/COBRA-404-CYBER/MARSHAL-ENCRYPT
 
 cd MARSHAL-ENCRYPT
 
