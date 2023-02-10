@@ -36,7 +36,7 @@ python encrypt.py
 
 ### </> If you copy , Then Give me The Credits </>
 
-### <\> Encrypt your code for safty </>
+### </> Encrypt your code for safty </>
 
 ## Find Me on :
 
