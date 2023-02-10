@@ -4,7 +4,7 @@
 
 <a href="#"><img title="COBRA-404-CYBER" src="https://img.shields.io/badge/AUTHOR-FARHAN%20KHAN-red"></a>
 
-<h1 align="center"> ENCRYPT</h1>
+<h1 align="center">ENCRYPT CODE</h1>
 
 
 ## <b>Installation</b>
@@ -35,6 +35,8 @@ python encrypt.py
 <a href="#"><img title="COBRA-404-CYBER" src="https://k.top4top.io/p_2597oars90.jpg"></a>
 
 ### </> If you copy , Then Give me The Credits </>
+
+### <\> Encrypt your code for safty </>
 
 ## Find Me on :
 
