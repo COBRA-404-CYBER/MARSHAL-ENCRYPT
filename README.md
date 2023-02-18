@@ -40,6 +40,6 @@ python enc.py
 
 ## Find Me on :
 
-[![Facebook](https://img.shields.io/badge/Facebook-FARHAN%20KHAN-blue)](https://www.facebook.com/virtua.jhonny.sins?mibextid=ZbWKwL)</br>
+[![Facebook](https://img.shields.io/badge/Facebook-FARHAN%20KHAN-blue)](https://www.facebook.com/FarhanXTermux?mibextid=ZbWKwL)</br>
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-FARHAN%20KHAN-green)](https://wa.me/+8801838847447?text=)</br>
 [![Teligram](https://img.shields.io/badge/TELIGRAM-C08r4-blue)](t.me/C08r4)</br>
