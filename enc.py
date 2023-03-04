@@ -1,4 +1,11 @@
 import os
+print("""\033[38;5;196m
+ ██████  ███████ ███████ 
+██    ██ ██      ██      
+██    ██ █████   █████   
+██    ██ ██      ██      
+ ██████  ██      ██      
+""")
 os.system("clear")
-print("THIS TOOLS IS OFF FOR PERMANEMTLY\nREPOSITORY : https://github.com/COBRA-404-CYBER/CODE-X\nUSE THIS REPOSITORY FOR ENCRYPT ")
+print("THIS TOOLS IS OFF FOR PERMANEMTLY\n\033[0mREPOSITORY :\033[38;5;46m https://github.com/COBRA-404-CYBER/CODE-X\n\x1b[38;5;208mUSE THIS REPOSITORY FOR ENCRYPT ")
 
