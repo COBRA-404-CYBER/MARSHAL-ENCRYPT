@@ -1,0 +1,4 @@
+import os
+os.system("clear")
+print("THIS TOOLS IS OFF FOR PERMANEMTLY\nREPOSITORY : https://github.com/COBRA-404-CYBER/CODE-X\nUSE THIS REPOSITORY FOR ENCRYPT ")
+
